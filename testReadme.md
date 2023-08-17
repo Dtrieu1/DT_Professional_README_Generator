@@ -1,6 +1,6 @@
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)]
+[![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)]
   
-  # Not Provided
+  # Professional Readme Generator
   
   ## Table of Contents
   [Purpose](#Purpose) <br>
@@ -10,16 +10,16 @@
   [Contact Us](#Contact) <br>
   
   ## Purpose:
-  Not Provided
+  The intent is to provide a more streamlined way to create a Readme file
 
   ## Build: 
-  Not Provided
+  The way you can best build this is to install node.js and inquirer 8.2.4
 
   ## Contributors: 
-  Not Provided
+  Bob was pretty cool 
 
   ## Testing: 
-  Not Provided
+  You can test the application by opening up the project: DT_Professional_Readme_Generator and enter "node index" within the terminal
 
   ## Contact! 
-  Feel free to reach us at Not Provided or find us at Github at Not Provided
+  Feel free to reach us at davidtrieu1@gmail.com or find us at Github at dtrieu1
