@@ -21,3 +21,7 @@ You can test the application by opening up the project: DT_Professional_Readme_G
 ## Demo
 
 [Video Demo](https://drive.google.com/file/d/1fAd8YbDCJXy7mRhsY9RB9cu6IpKPalK-/view?usp=drive_link)
+
+## Resources
+
+Video assisting in walking through CLI w/ Inquirer and Node.js https://www.youtube.com/watch?v=CfS6eOBe8AY
