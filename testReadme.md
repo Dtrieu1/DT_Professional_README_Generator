@@ -3,20 +3,20 @@
   # Professional Readme Generator
   
   ## Table of Contents
-  [Purpose](#Purpose) <br>
+  [Description](#Description) <br>
   [Build](#Build) <br>
   [Contributors](#Contributors) <br>
   [Testing](#Testing) <br>
   [Contact Us](#Contact) <br>
   
-  ## Purpose:
+  ## Description:
   The intent is to provide a more streamlined way to create a Readme file
 
   ## Build: 
   The way you can best build this is to install node.js and inquirer 8.2.4
 
   ## Contributors: 
-  Bob was pretty cool 
+  Bobby
 
   ## Testing: 
   You can test the application by opening up the project: DT_Professional_Readme_Generator and enter "node index" within the terminal

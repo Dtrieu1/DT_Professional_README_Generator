@@ -21,14 +21,14 @@ function generateMarkdown(data) {
   # ${data.Title}
   
   ## Table of Contents
-  [Purpose](#Purpose) <br>
+  [Description](#Description) <br>
   [Build](#Build) <br>
   [Contributors](#Contributors) <br>
   [Testing](#Testing) <br>
   [Contact Us](#Contact) <br>
   
-  ## Purpose:
-  ${data.Purpose}
+  ## Description:
+  ${data.Description}
 
   ## Build: 
   ${data.Build}

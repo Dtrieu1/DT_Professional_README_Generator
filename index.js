@@ -12,8 +12,8 @@ const questions = [
   },
   {
     type: "input",
-    message: "Purpose or motivation of building this project?",
-    name: "Purpose",
+    message: "Description/Usage on building this project?",
+    name: "Description",
     default: "Not Provided",
   },
   {
@@ -42,7 +42,7 @@ const questions = [
   },
   {
     type: "input",
-    message: "Any other contributes who supported this?",
+    message: "Any other contributors who supported this?",
     name: "Contributors",
     default: "Not Provided",
   },
@@ -54,7 +54,7 @@ const questions = [
   },
   {
     type: "input",
-    message: "What email should they use to contact you?",
+    message: "What email should they use to contact you if you have any questions?",
     name: "Email",
     default: "Not Provided",
   },
