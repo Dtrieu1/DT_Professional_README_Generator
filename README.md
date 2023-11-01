@@ -19,7 +19,7 @@
 
   ## Demo
 
-[Video Demo](https://drive.google.com/file/d/1fAd8YbDCJXy7mRhsY9RB9cu6IpKPalK-/view?usp=drive_link)
+  To see a demo, feel free to select this [video demo link](https://drive.google.com/file/d/1TATQ76qS6lLOyGpt4WZKAKaaElBPIcoc/view)
   
   ## Contact! 
   Feel free to reach us at davidtrieu1@gmail.com or find us at Github at dtrieu1
